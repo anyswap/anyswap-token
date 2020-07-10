@@ -12,8 +12,8 @@ module.exports = {
 
   compilers: {
     solc: {
-      version: "0.6.10",
-      evmVersion: "constantinople",
+      version: "0.5.4",
+      evmVersion: "byzantium",
       settings: {
         optimizer: {
           enabled: true,
